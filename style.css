@@ -10,12 +10,43 @@
 .container {
     position: relative;
     margin: 20px;
-    top: 113px;
-    left: 1420px;
+    top: 100px;
+    left: 1300px;
     width: auto;
+}
+
+.nav .active {
+    color: #453539;
+}
+
+.nav .nav-item {
+    color: #000;
 }
 
 #responsive {
     width: 100%;
     height: auto;
+}
+
+.grid {
+    margin-top: 60px;
+    margin-left: 550px;
+    position: center;
+    width: 60em;
+}
+
+.fbg-img {
+    background-image: url('./img/Footer.png');
+    min-height: 180px;
+    background-position: bottom 0px left 60px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.Fcontainer {
+    position: relative;
+    top: 110px;
+    left: 130px;
+    width: auto;
 }

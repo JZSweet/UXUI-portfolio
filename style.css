@@ -4,7 +4,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: static;
+    position: relative;
 }
 
 .container {
@@ -30,7 +30,7 @@
 
 .grid {
     margin-top: 60px;
-    margin-left: 550px;
+    margin-left: 25%;
     position: center;
     width: 60em;
 }
@@ -38,7 +38,7 @@
 .fbg-img {
     background-image: url('./img/Footer.png');
     min-height: 180px;
-    background-position: bottom 0px left 60px;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -46,8 +46,8 @@
 
 .Fcontainer {
     position: relative;
-    top: 110px;
-    left: 6%;
+    top: 120px;
+    left: 2%;
     width: auto;
 }
 

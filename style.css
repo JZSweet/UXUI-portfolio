@@ -50,3 +50,10 @@
     left: 130px;
     width: auto;
 }
+
+hr {
+    width: 80%;
+    height: 4px;
+    margin-left: auto;
+    margin-right: auto;
+}

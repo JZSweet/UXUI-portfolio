@@ -8,10 +8,10 @@
 }
 
 .container {
-    position: relative;
     margin: 20px;
-    top: 100px;
-    left: 67.5%;
+    margin-top: 5%;
+    margin-right: 5%;
+    float: right;
     width: auto;
 }
 
@@ -45,9 +45,10 @@
 }
 
 .Fcontainer {
-    position: relative;
-    top: 120px;
-    left: 2%;
+    margin: 10px;
+    margin-top: 6.5%;
+    margin-left: 4.5%;
+    float: left;
     width: auto;
 }
 

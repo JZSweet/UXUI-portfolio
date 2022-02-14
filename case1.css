@@ -1,0 +1,12 @@
+header img {
+    max-width: 100%;
+    height: auto;
+}
+
+.left {
+    position: static;
+    left: 1px;
+    width: 600px;
+    border: 3px solid transparent;
+    padding: 10px;
+}

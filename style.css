@@ -28,6 +28,17 @@
     height: auto;
 }
 
+.sectionHeading {
+    font-family: sans-serif;
+}
+
+#jz2 {
+    max-width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .grid {
     margin-top: 60px;
     margin-left: 25%;
@@ -57,4 +68,20 @@ hr {
     height: 4px;
     margin-left: auto;
     margin-right: auto;
+}
+
+.bounceboy {
+    animation: appa .7s infinite;
+}
+
+@keyframes appa {
+    from {
+        margin-top: 0px;
+    }
+    50% {
+        margin-top: 7px;
+    }
+    to {
+        margin-top: 0px;
+    }
 }

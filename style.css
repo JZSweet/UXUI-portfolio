@@ -46,6 +46,11 @@
     width: 60em;
 }
 
+#aboutme {
+    display: flex;
+    column-gap: 70px;
+}
+
 .fbg-img {
     background-image: url('./img/Footer.png');
     min-height: 180px;

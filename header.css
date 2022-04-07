@@ -56,10 +56,13 @@
                 flex-direction: column;
                 justify-content: space-between;
                 align-items: center;
-                display: block;
             }
             .header-right a {
                 color: #453539;
                 font-size: 17px;
+            }
+            .responsive {
+                width: 63%;
+                height: auto;
             }
         }

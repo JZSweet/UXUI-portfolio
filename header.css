@@ -47,5 +47,19 @@
         @media screen and (max-width: 500px) {
             .hamburgerMenu {
                 display: block;
+                float: right;
+                position: relative;
+            }
+            .header-right {
+                float: none;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                align-items: center;
+                display: block;
+            }
+            .header-right a {
+                color: #453539;
+                font-size: 17px;
             }
         }

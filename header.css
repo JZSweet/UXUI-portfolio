@@ -135,10 +135,11 @@
             margin-right: auto;
         }
         
-        @media screen and (max-width: 500px) {
+        @media screen and (max-width: 480px) {
             .hamburgerMenu {
                 display: block;
                 float: right;
+                padding-top: 7%;
                 position: relative;
             }
             .header-right {
@@ -158,7 +159,7 @@
             }
             #Headeing1 {
                 max-width: 70%;
-                margin-left: 70px;
+                margin-left: 18%;
                 padding: 0%;
             }
             .footerR {
@@ -188,17 +189,18 @@
                 display: block;
                 max-height: auto;
                 max-width: 295px;
-                padding-left: 40px;
+                padding-left: 10%;
                 padding-right: 0px;
                 padding-top: 0px;
             }
             #PICsession {
                 max-height: auto;
                 max-width: fit-content;
+                margin-bottom: 15%;
             }
             .grid {
                 margin-top: 20px;
-                margin-left: 6px;
+                margin-left: 0.5%;
                 flex-flow: column;
                 max-width: fit-content;
             }
